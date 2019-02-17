@@ -1,11 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
-## 0.4.4 - 2019.02.17
+## 0.4.4
 - improved "Selected Game"
 - changed how logs are stored
 - added more logs
 
-## 0.3.6 - 2019.01.30
+## 0.3.6
 - initial public release
 - mod metadata support for modders
 - mod config support for modders
