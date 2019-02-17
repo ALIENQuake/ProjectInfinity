@@ -2,6 +2,7 @@
 All notable changes to this project will be documented in this file.
 ## 0.4.4 - 2019.02.17
 - improved "Selected Game"
+- changed how logs are stored
 - added more logs
 
 ## 0.3.6 - 2019.01.30
