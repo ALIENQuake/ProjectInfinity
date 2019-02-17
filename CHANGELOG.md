@@ -1,6 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
-## 0.4.4
+
+## Next version
 - improved "Selected Game"
 - changed how logs are stored
 - added more logs
