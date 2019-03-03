@@ -1,7 +1,8 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## Next version
+## 0.4.5
+- fixed Download Mods
 - improved "Selected Game"
 - faster installation (--quick-log)
 - changed how logs are stored
