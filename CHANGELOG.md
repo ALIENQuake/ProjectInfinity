@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## not released
+## 0.4.6
 - added "About" dialog
 - new icons for toolbar buttons
 - it's no longer possible to click "Install-Mods" multiple times durring ongoing installation
