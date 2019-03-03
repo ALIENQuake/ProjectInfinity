@@ -3,6 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## Next version
 - improved "Selected Game"
+- faster installation (--quick-log)
 - changed how logs are stored
 - added more logs
 
