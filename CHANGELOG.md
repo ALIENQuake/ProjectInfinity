@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 ## 0.4.6
 - added "About" dialog
 - new icons for toolbar buttons
-- it's no longer possible to click "Install-Mods" multiple times durring ongoing installation
+- prevent multiple click of "Install-Mods" durring ongoing installation 
 - output from Weidu processes are commented
 
 ## 0.4.5
