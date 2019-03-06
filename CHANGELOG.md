@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 0.4.7
+- removed sound notiffication from "Uninstall-Everything" confirmation window
+
 ## 0.4.6
 - added "About" dialog
 - new icons for toolbar buttons
