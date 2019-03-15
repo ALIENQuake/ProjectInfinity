@@ -2,7 +2,11 @@
 All notable changes to this project will be documented in this file.
 
 ## 0.4.7
+- most buttons will be disabled durring installation
 - removed sound notiffication from "Uninstall-Everything" confirmation window
+- added notiffication after finished installation
+- fixed crash when game folder dosen't exist
+- regain some space by moving items to toolbar
 
 ## 0.4.6
 - added "About" dialog
