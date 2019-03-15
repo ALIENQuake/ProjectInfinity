@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 
 ## 0.4.7
-- game list has icons
+- selected game has icon
 - most buttons will be disabled during installation
 - removed sound notification from "Uninstall-Everything" confirmation window
 - added notification after finished installation
