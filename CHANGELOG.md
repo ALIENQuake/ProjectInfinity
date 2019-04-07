@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 0.4.8
 
 - restore ability to resize main window
+- restore minimize and maximize buttons
 - greatly improved application startup time due to new logic
 
 ## 0.4.7
