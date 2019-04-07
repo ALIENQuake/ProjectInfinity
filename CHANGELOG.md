@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 0.4.8
+- restore ability to resize main window
+- greatly improved application startup time due to new logic
+
 ## 0.4.7
 - selected game has icon
 - most buttons will be disabled during installation
