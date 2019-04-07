@@ -1,6 +1,10 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+## 0.4.9
+
+- fixed regression for mods update function
+- updating mods will refresh it's treeview node
 
 ## 0.4.8
 
