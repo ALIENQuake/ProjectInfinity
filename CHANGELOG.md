@@ -1,6 +1,13 @@
 # Changelog
-
 All notable changes to this project will be documented in this file.
+
+## 0.5.1
+- improved behavior of the 'Refresh mod list' button
+- duplicated IEMod main files are detected regardless of 'setup-' prefix
+- it's not longer possible to provide invalid game paths
+- clicking game icon will run game
+- minor corrections
+
 ## 0.5.0
 
 - fixed regression for mods metadata function
