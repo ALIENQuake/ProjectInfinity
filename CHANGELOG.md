@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 0.5.2
+- fixed mod sorting (regression)
+- added message when mod dosen't provide metadata
+- minor corrections
+
 ## 0.5.1
 - improved behavior of the 'Refresh mod list' button
 - duplicated IEMod main files are detected regardless of 'setup-' prefix
@@ -10,11 +15,11 @@ All notable changes to this project will be documented in this file.
 
 ## 0.5.0
 
-- fixed regression for mods metadata function
+- fixed mods metadata function (regression)
 
 ## 0.4.9
 
-- fixed regression for mods update function
+- fixed mod update function (regression)
 - updating mods will refresh it's treeview node
 
 ## 0.4.8
@@ -43,7 +48,7 @@ All notable changes to this project will be documented in this file.
 
 - fixed Download Mods
 - improved "Selected Game"
-- faster installation (--quick-log)
+- faster mod installation (--quick-log)
 - changed how logs are stored
 - added more logs
 
