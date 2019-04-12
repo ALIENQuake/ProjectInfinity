@@ -2,8 +2,8 @@
 All notable changes to this project will be documented in this file.
 
 ## 0.5.2
-- fixed mod sorting (regression)
-- added message when mod dosen't provide metadata
+- fixed mod list sorting (regression)
+- added message when mod doesn't provide metadata
 - minor corrections
 
 ## 0.5.1
