@@ -1,12 +1,19 @@
 # Changelog
-All notable changes to this project will be documented in this file.
+ The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
+
+## 0.5.3
+
+- fixed missing Classic Icewind Dale icon
+- fixed duplicated download list
 
 ## 0.5.2
+
 - fixed mod list sorting (regression)
 - added message when mod doesn't provide metadata
 - minor corrections
 
 ## 0.5.1
+
 - improved behavior of the 'Refresh mod list' button
 - duplicated IEMod main files are detected regardless of 'setup-' prefix
 - it's not longer possible to provide invalid game paths
@@ -63,4 +70,4 @@ All notable changes to this project will be documented in this file.
 - ability to add single/multiple mods to already existing mod sequence
 - cosmetic changes
 
- The format is based on [Keep a Changelog](https://keepachangelog.com/) and this project follows [Semantic Versioning](https://semver.org/).
+
