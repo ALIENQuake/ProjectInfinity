@@ -1,6 +1,10 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.5.4
+
+- fixed mod Sorting Order feature (regression)
+
 ## 0.5.3
 
 - fixed missing Classic Icewind Dale icon
