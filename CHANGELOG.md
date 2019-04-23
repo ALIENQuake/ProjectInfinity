@@ -3,7 +3,7 @@
 
 ## 0.5.6
 
-- file association will be asked only once
+- file association will be created only once
 
 ## 0.5.5
 
