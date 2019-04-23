@@ -1,6 +1,10 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.5.6
+
+- file association will be asked only once
+
 ## 0.5.5
 
 - New Feature: change order of the mods
