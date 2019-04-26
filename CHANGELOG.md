@@ -4,7 +4,9 @@
 ## 0.5.7
 
 - added separate Settings window
-- resize and reorder icons
+- added EET and BGT as separate games
+- added "Open game folder" and "Open user data folder"
+- resize and rearrange icons
 
 ## 0.5.6
 
@@ -16,7 +18,7 @@
 
 ## 0.5.4
 
-- fixed mod Sorting Order feature (regression)
+- fixed "Sorting Order" feature (regression)
 
 ## 0.5.3
 
