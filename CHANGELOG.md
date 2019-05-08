@@ -1,6 +1,12 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.5.8
+
+- moved "tp2 path" and "languages list" to mod infobox
+- improved support for outdated mods which still uses 'AT_*'
+- fixed file association when application path contains apostrophe
+
 ## 0.5.7
 
 - added separate Settings window
