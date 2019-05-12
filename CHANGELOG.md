@@ -1,6 +1,11 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.5.9
+
+- fixed game setup for classic games (regression)
+- fixed "Open game folder" icon action (regression)
+
 ## 0.5.8
 
 - moved "tp2 path" and "languages list" to mod infobox
