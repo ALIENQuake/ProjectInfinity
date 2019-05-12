@@ -1,6 +1,11 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.6.0
+
+- prevent selecting meaningless checkbox
+- fixed selecting subcomponents (regression)
+
 ## 0.5.9
 
 - fixed game setup for classic games (regression)
