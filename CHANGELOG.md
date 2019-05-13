@@ -1,6 +1,12 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.6.1
+
+- fixed initial game path setup
+- fixed removing all game path from Settings window
+- providing initial game path will also select associated game
+
 ## 0.6.0
 
 - prevent selecting meaningless checkbox
@@ -8,7 +14,7 @@
 
 ## 0.5.9
 
-- fixed game setup for classic games (regression)
+- fixed game path setup for classic games (regression)
 - fixed "Open game folder" icon action (regression)
 
 ## 0.5.8
