@@ -1,6 +1,12 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.6.2
+
+- added 'Uncheck-Everything' button
+- preventing selecting checkbox for main mod node
+- fixed language list for single language
+
 ## 0.6.1
 
 - fixed initial game path setup
@@ -9,7 +15,7 @@
 
 ## 0.6.0
 
-- prevent selecting meaningless checkbox
+- preventing selecting meaningless checkbox
 - fixed selecting subcomponents (regression)
 
 ## 0.5.9
