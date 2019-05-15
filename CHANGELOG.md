@@ -2,8 +2,8 @@
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.6.4
- - cosmetics
- 
+ - cosmetic changes
+
 ## 0.6.3
 
 - New Feature: pausing installation
