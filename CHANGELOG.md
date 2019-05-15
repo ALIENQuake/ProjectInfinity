@@ -1,6 +1,9 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.6.4
+ - cosmetics
+ 
 ## 0.6.3
 
 - New Feature: pausing installation
@@ -8,7 +11,7 @@
 - cannot pause / abort after the last component starts installation
 - preventing closing application during ongoing installation
 - more GUI elements are disabled during ongoing installation
-- improve abotring installation
+- improve aborting installation
 - minor GUI redesign
 
 ## 0.6.2
