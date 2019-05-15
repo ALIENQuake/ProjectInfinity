@@ -4,8 +4,11 @@
 ## 0.6.3
 
 - New Feature: pausing installation
+- cannot pause / abort installation of single component
+- cannot pause / abort after the last component starts installation
 - preventing closing application during ongoing installation
-- more application elements are disabled during ongoing installation
+- more GUI elements are disabled during ongoing installation
+- improve abotring installation
 - minor GUI redesign
 
 ## 0.6.2
