@@ -1,6 +1,13 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.6.3
+
+- New Feature: pausing installation
+- preventing closing application during ongoing installation
+- more application elements are disabled during ongoing installation
+- minor GUI redesign
+
 ## 0.6.2
 
 - added 'Uncheck-Everything' button
