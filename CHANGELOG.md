@@ -2,12 +2,15 @@
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.6.6
+
 - reintroduce ability to expand list of mod components as initial action
 
 ## 0.6.5
+
 - fixed sorting order feature (regression)
 
 ## 0.6.4
+
  - cosmetic changes
 
 ## 0.6.3
