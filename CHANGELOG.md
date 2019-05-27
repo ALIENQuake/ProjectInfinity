@@ -1,8 +1,9 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
-##
+## 0.6.7
 
+- fixed duplicated 'Enter' key-press
 - fixed button positions after resizing main window
 
 ## 0.6.6
