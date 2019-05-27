@@ -1,6 +1,10 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+##
+
+- fixed button positions after resizing main window
+
 ## 0.6.6
 
 - reintroduce ability to expand list of mod components as initial action
