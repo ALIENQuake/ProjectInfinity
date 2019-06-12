@@ -1,6 +1,22 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.0
+
+- New Feature: Install Order Groups
+- New Feature: assign mods to Install Order Groups
+- New Feature: re-arrange order of the Install Order Groups
+- New Feature: re-arrange order of the mods inside Install Order Groups
+- New Feature: Drag & Drop for Install Order Groups and mods
+- New Feature: auto-saving mods assignment into Install Order Groups
+- New Feature: auto-saving order of the mods
+- added 'Move to top' and 'Move to bottom' buttons
+- added Ctrl+UpArrow/DownArrow and Ctrl+Alt+UpArrow/DownArrow hotkeys combinations
+
+## 0.6.9
+
+- removed 'EET' until full support will be implemented
+
 ## 0.6.8
 
 - mod errors will pause installation
