@@ -1,6 +1,11 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.1
+
+- fixed Up/Down icons for Windows 7
+- fixed typos
+
 ## 0.7.0
 
 - New Feature: Install Order Groups
