@@ -27,7 +27,7 @@
 
 ## 0.6.9
 
-- removed 'EET' until full support will be implemented
+- removed separate game path for 'EET' until extended support will be implemented, it doesn't mean that PI has lost 'ETT' support, you can still install it as before
 
 ## 0.6.8
 
