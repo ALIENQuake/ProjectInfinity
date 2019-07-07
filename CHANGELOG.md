@@ -1,6 +1,10 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.4
+
+- fixed launching games
+
 ## 0.7.3
 
 - fixed initial mod scanning
