@@ -1,6 +1,14 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.5
+
+- full support for WeiDU README keyword, translated readme files
+- adopted to the new WeiDU distribution model
+- improvements to the mod update process
+- hide progress bar for Github API commands
+- fixed VERSION RegEx
+
 ## 0.7.4
 
 - fixed launching games
