@@ -6,6 +6,8 @@
 - full support for WeiDU README keyword including translated readme files
 - adopted to the new WeiDU distribution model
 - improvements to the mod update process
+- auto-update will be executed without user action
+- added 'Restart' button, visible when update was downloaded
 - fixed VERSION RegEx
 - lot of internal changes
 
