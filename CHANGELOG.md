@@ -3,11 +3,11 @@
 
 ## 0.7.5
 
-- full support for WeiDU README keyword, translated readme files
+- full support for WeiDU README keyword including translated readme files
 - adopted to the new WeiDU distribution model
 - improvements to the mod update process
-- hide progress bar for Github API commands
 - fixed VERSION RegEx
+- lot of internal changes
 
 ## 0.7.4
 
