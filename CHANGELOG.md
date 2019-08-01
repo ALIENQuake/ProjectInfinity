@@ -5,6 +5,7 @@
 
 - full support for WeiDU README keyword including translated readme files
 - adopted to the new WeiDU distribution model
+- Git is now build-in tool
 - improvements to the mod update process
 - auto-update will be executed without user action
 - added 'Restart' button, visible when update was downloaded
