@@ -1,6 +1,10 @@
 # Changelog
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.6
+
+- minor fixes 
+
 ## 0.7.5
 
 - full support for WeiDU README keyword including translated readme files
