@@ -2,7 +2,6 @@
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.7.6
-- added SoD as separate game
 - minor fixes 
 
 ## 0.7.5
@@ -14,6 +13,8 @@
 - auto-update will be executed without user action
 - added 'Restart' button, visible when update was downloaded
 - fixed VERSION RegEx
+- added SoD as separate game
+- added feedback for user regarding duplicated tp2 files/mods
 - lot of internal changes
 
 ## 0.7.4
