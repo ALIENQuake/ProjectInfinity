@@ -2,7 +2,7 @@
  The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.7.6
-
+- added SoD as separate game
 - minor fixes 
 
 ## 0.7.5
