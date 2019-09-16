@@ -12,6 +12,9 @@ assignees: ALIENQuake
  - .NET Framework version: should be 4.5.2 or above [Download](https://www.microsoft.com/net/download/dotnet-framework-runtime)
  - Powershell version: should be Powershell 5.1 [Download](https://docs.microsoft.com/en-us/powershell/wmf/setup/install-configure)
 
+**Upload logs from Logs folder**
+Please zip entire Logs directory and attachat the file to the issue.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
