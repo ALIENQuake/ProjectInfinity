@@ -1,8 +1,16 @@
 # Changelog
- The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
+
+## 0.7.7
+
+- New Feature: support for EET
+- cosmetic changes
+- minor fixes
 
 ## 0.7.6
-- minor fixes 
+
+- minor fixes
 
 ## 0.7.5
 
@@ -28,7 +36,7 @@
 ## 0.7.2
 
 - fixed pausing of the installation when error occurs for the last mod
-- preventing selecting checkbox for Install Order group node
+- preventing selecting checkbox for Install Order Group node
 - fixed 'Update-Mod' and 'Edit-ModConfig' buttons disable/enable logic
 
 ## 0.7.1
@@ -72,7 +80,7 @@
 
 ## 0.6.4
 
- - cosmetic changes
+- cosmetic changes
 
 ## 0.6.3
 
@@ -109,7 +117,7 @@
 ## 0.5.8
 
 - moved "tp2 path" and "languages list" to mod infobox
-- improved support for outdated mods which still uses 'AT_*'
+- improved support for outdated mods which still uses 'AT\_\*'
 - fixed file association when application path contains apostrophe
 
 ## 0.5.7
@@ -178,7 +186,7 @@
 
 - added "About" dialog
 - new icons for toolbar buttons
-- prevent multiple click of "Install-Mods" during ongoing installation 
+- prevent multiple click of "Install-Mods" during ongoing installation
 - output from WeiDU processes are commented
 
 ## 0.4.5
@@ -199,5 +207,3 @@
 - ability to convert WeiDU.Log into install sequence
 - ability to add single/multiple mods to already existing mod sequence
 - cosmetic changes
-
-
