@@ -1,10 +1,25 @@
-# Changelog
-
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
+
+## 0.7.9
+
+- added EEex.exe support for game launch and icon
+- added basic validation into 'Setting'
+- added check if the install sequence contains mods that are not extracted
+- improved "Download Mods" window
+- improve application logs
+- removed --quick-log
+- fixed escaping special characters for mod source files
+- fixed EET install sequence when an error occurs during BG:SoD phase
+- fixed Readme keyword
+- fixed typos
+
+## 0.7.8
+
+- New Feature: mod metadata Readme keyword for online readme files
 
 ## 0.7.7
 
-- New Feature: support for EET
+- New Feature: support for full EET installation
 - cosmetic changes
 - minor fixes
 
@@ -16,14 +31,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 - full support for WeiDU README keyword including translated readme files
 - adopted to the new WeiDU distribution model
-- Git is now build-in tool
+- Git is now a built-in tool
 - improvements to the mod update process
 - auto-update will be executed without user action
-- added 'Restart' button, visible when update was downloaded
+- added 'Restart' button, visible when the update was downloaded
 - fixed VERSION RegEx
-- added SoD as separate game
-- added feedback for user regarding duplicated tp2 files/mods
-- lot of internal changes
+- added SoD as a separate game
+- added feedback for the user regarding duplicated tp2 files/mods
+- several internal changes
 
 ## 0.7.4
 
@@ -35,8 +50,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.7.2
 
-- fixed pausing of the installation when error occurs for the last mod
-- preventing selecting checkbox for Install Order Group node
+- fixed pausing of the installation when an error occurs for the last mod
+- preventing selecting the checkbox for Install Order Group node
 - fixed 'Update-Mod' and 'Edit-ModConfig' buttons disable/enable logic
 
 ## 0.7.1
@@ -59,7 +74,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.6.9
 
-- removed separate game path for 'EET' until extended support will be implemented, it doesn't mean that PI has lost 'ETT' support, you can still install it as before
+- removed separate game path for 'EET' until extended support will be implemented,
+  it doesn't mean that PI has lost 'ETT' support, you can still install it as before
 
 ## 0.6.8
 
@@ -68,11 +84,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 ## 0.6.7
 
 - fixed duplicated 'Enter' key-press
-- fixed button positions after resizing main window
+- fixed button positions after resizing the main window
 
 ## 0.6.6
 
-- reintroduce ability to expand list of mod components as initial action
+- reintroduce ability to expand the list of mod components as an initial action
 
 ## 0.6.5
 
@@ -85,10 +101,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 ## 0.6.3
 
 - New Feature: pausing installation
-- cannot pause / abort installation of single component
-- cannot pause / abort after the last component starts installation
+- cannot pause/abort the installation of a single component
+- cannot pause/abort after the last component starts the installation
 - preventing closing application during ongoing installation
-- more GUI elements are disabled during ongoing installation
+- additional GUI elements are disabled during ongoing installation
 - improve aborting installation
 - minor GUI redesign
 
@@ -102,11 +118,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 - fixed initial game path setup
 - fixed removing all game path from Settings window
-- providing initial game path will also select associated game
+- providing an initial game path will also select the associated game
 
 ## 0.6.0
 
-- preventing selecting meaningless checkbox
+- preventing selecting a meaningless checkbox
 - fixed selecting subcomponents (regression)
 
 ## 0.5.9
@@ -118,7 +134,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 - moved "tp2 path" and "languages list" to mod infobox
 - improved support for outdated mods which still uses 'AT\_\*'
-- fixed file association when application path contains apostrophe
+- fixed file association when application path contains an apostrophe
 
 ## 0.5.7
 
@@ -147,14 +163,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 ## 0.5.2
 
 - fixed mod list sorting (regression)
-- added message when mod doesn't provide metadata
+- added message when a mod doesn't provide metadata
 - minor corrections
 
 ## 0.5.1
 
 - improved behavior of the 'Refresh mod list' button
 - duplicated IEMod main files are detected regardless of 'setup-' prefix
-- it's not longer possible to provide invalid game paths
+- it's no longer possible to provide invalid game paths
 - clicking game icon will run game
 - minor corrections
 
@@ -169,24 +185,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.4.8
 
-- restore ability to resize main window
+- restore the ability to resize a main window
 - restore minimize and maximize buttons
 - greatly improved application startup time due to new logic
 
 ## 0.4.7
 
-- selected game has icon
+- the selected game has an icon
 - most buttons will be disabled during installation
 - removed sound notification from "Uninstall-Everything" confirmation window
 - added notification after finished installation
-- fixed crash when game folder doesn't exist
-- regain some space by moving items to toolbar
+- fixed crash when the game folder doesn't exist
+- regain some space by moving items to a toolbar
 
 ## 0.4.6
 
 - added "About" dialog
 - new icons for toolbar buttons
-- prevent multiple click of "Install-Mods" during ongoing installation
+- prevent multiple clicks of "Install-Mods" during ongoing installation
 - output from WeiDU processes are commented
 
 ## 0.4.5
@@ -195,7 +211,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 - improved "Selected Game"
 - faster mod installation (--quick-log)
 - changed how logs are stored
-- added more logs
+- added additional logs
 
 ## 0.3.6
 
