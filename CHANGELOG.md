@@ -12,7 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 - improved "Mods" window
 - improve application logs
 - fixed a rare case when valid mods were removed from the list
-- fixed escaping special characters for mod source files
+- fixed escaping special characters for mod filenames
 - fixed unpausing EET install sequence when an error occurs during last mod of BG:SoD phase
 - fixed bug in online readme feature
 - fixed typos
