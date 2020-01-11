@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 - added EEex.exe support for game launch and icon
 - added basic validation into 'Setting'
 - added check if the install sequence data contains non-existing mods
-- bring back extra game entry for 'EET' for convenience
+- bring back extra 'EET' game entry for convenience
 - removed --quick-log weidu switch
 - improved handling of the EET installation
 - improved "Mods" window
