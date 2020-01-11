@@ -1,16 +1,20 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.7.9
-
+- added SpellholdStudios Github account
+- added Bubb13 Github account
 - added EEex.exe support for game launch and icon
 - added basic validation into 'Setting'
-- added check if the install sequence contains mods that are not extracted
-- improved "Download Mods" window
+- added check if the install sequence data contains non-existing mods
+- bring back extra game entry for 'EET' for convenience
+- removed --quick-log weidu switch
+- improved handling of the EET installation
+- improved "Mods" window
 - improve application logs
-- removed --quick-log
+- fixed a rare case when valid mods were removed from the list
 - fixed escaping special characters for mod source files
-- fixed EET install sequence when an error occurs during BG:SoD phase
-- fixed Readme keyword
+- fixed unpausing EET install sequence when an error occurs during last mod of BG:SoD phase
+- fixed bug in online readme feature
 - fixed typos
 
 ## 0.7.8
