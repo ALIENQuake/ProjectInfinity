@@ -4,7 +4,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 - added Spellhold Studios Github account
 - added Bubb13 Github account
 - added EEex.exe support for game launch and icon
-- added basic validation into 'Setting'
+- added basic validation into 'Setting' window
 - added check if the install sequence data contains non-existent mods
 - bring back extra 'EET' game entry for convenience
 - removed --quick-log weidu switch
