@@ -1,7 +1,7 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.7.9
-- added SpellholdStudios Github account
+- added Spellhold Studios Github account
 - added Bubb13 Github account
 - added EEex.exe support for game launch and icon
 - added basic validation into 'Setting'
@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 - bring back extra 'EET' game entry for convenience
 - removed --quick-log weidu switch
 - improved handling of the EET installation
+- improved handling of the BGT installation
 - improved "Mods" window
 - improve application logs
 - fixed a rare case when valid mods were removed from the list
