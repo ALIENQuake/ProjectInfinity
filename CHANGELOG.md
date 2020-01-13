@@ -1,5 +1,8 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.11
+- fixed closing "Mods" window
+
 ## 0.7.10
 - added Pocket Plane Group Github account
 
