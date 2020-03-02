@@ -1,5 +1,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.12
+- fixed missing mods from "Mods" window
+- fixed few problems with logs
+- fixed uninstallation when mod tp2 contains spaces
+
 ## 0.7.11
 - fixed closing "Mods" window
 
