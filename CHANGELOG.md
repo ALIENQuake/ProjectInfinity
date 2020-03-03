@@ -2,7 +2,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.7.12
 - fixed missing mods from "Mods" window
-- fixed few problems with logs
+- fixed a few problems with logs
 - fixed uninstallation when mod tp2 contains spaces
 
 ## 0.7.11
