@@ -1,5 +1,9 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.13
+- added online mods counter
+- minor improvements to Settings page
+
 ## 0.7.12
 - fixed missing mods from "Mods" window
 - fixed a few problems with logs
