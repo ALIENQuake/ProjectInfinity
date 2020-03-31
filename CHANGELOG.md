@@ -1,8 +1,14 @@
+# Release Notes:
+
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
 ## 0.7.13
+- overcome UI limitation in order to disable unnecessary checkboxes
 - added online mods counter
+- added Release Notes link
 - minor improvements to Settings page
+- change fornt to Segoe UI
+
 
 ## 0.7.12
 - fixed missing mods from "Mods" window
