@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 ## 0.7.14
 - overcome UI limitation in order to disable unnecessary checkboxes
 - added online mods counter
-- added Release Notes link
+- added Release Notes link inside 'Info' menu
 - change application font to Segoe UI
 
 ## 0.7.13
