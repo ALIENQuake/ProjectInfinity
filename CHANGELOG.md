@@ -6,12 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 - overcome UI limitation in order to disable unnecessary checkboxes
 - added online mods counter
 - added Release Notes link
-- minor improvements to Settings page
-- change fornt to Segoe UI
+- change application font to Segoe UI
 
 ## 0.7.13
 - added online mods counter
-- minor improvements to Settings page
+- minor improvements to the Settings page
 
 ## 0.7.12
 - fixed missing mods from "Mods" window
