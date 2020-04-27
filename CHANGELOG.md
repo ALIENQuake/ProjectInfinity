@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.15
+- added few tooltips for buttons
+- reworked Git detection and installation
+- improve feedback for the user if duplicated mods are found
+- added BGforgeNet Github account
+
 ## 0.7.14
 - overcome UI limitation in order to disable unnecessary checkboxes
 - added online mods counter
