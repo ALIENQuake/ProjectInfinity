@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.7.17
+
+- fixed importing WeiDU.log when tp2 filename contains '#'
+
 ## 0.7.16
 
 - reworked Git detection and installation
