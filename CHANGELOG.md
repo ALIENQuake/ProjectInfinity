@@ -2,34 +2,44 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
-## 0.7.15
-- added few tooltips for buttons
+## 0.7.16
+
 - reworked Git detection and installation
+
+## 0.7.15
+
+- added few tooltips for buttons
 - improve feedback for the user if duplicated mods are found
 - added BGforgeNet Github account
 
 ## 0.7.14
+
 - overcome UI limitation in order to disable unnecessary checkboxes
 - added online mods counter
 - added Release Notes link inside 'Info' menu
 - change application font to Segoe UI
 
 ## 0.7.13
+
 - added online mods counter
 - minor improvements to the Settings page
 
 ## 0.7.12
+
 - fixed missing mods from "Mods" window
 - fixed a few problems with logs
 - fixed uninstallation when mod tp2 contains spaces
 
 ## 0.7.11
+
 - fixed closing "Mods" window
 
 ## 0.7.10
+
 - added Pocket Plane Group Github account
 
 ## 0.7.9
+
 - added Spellhold Studios Github account
 - added Bubb13 Github account
 - added EEex.exe support for game launch and icon
