@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 ## 0.8.0
 
 - New Feature: Dynamic Install Order
+- removed install order group 'UI-Patch'
+- renamed install order group 'UI-Overwrite' to 'Overwrite'
 - minor fixes
 
 ## 0.7.20
