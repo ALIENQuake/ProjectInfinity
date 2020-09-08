@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.0
+
+- New Feature: Dynamic Install Order
+- minor fixes
+
 ## 0.7.20
 
 - cosmetic changes
