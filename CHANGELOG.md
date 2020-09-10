@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.1
+
+- fix when ini Download link contains 'releases'
+
 ## 0.8.0
 
 - New Feature: Dynamic Install Order
