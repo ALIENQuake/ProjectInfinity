@@ -2,10 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.4
+
+- fixed 'Download Mods' count (regression)
+
 ## 0.8.3
 
 - fixed duplicated mods at 'Download Mods' window
 - fixed unnecessary column names which appear after multiple buttons were pressed
+- improved detection of all available mods counter
 
 ## 0.8.2
 
