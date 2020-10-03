@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.3
+
+- fixed duplicated mods at 'Download Mods' window
+- fixed unnecessary column names which appear after multiple buttons were pressed
+
 ## 0.8.2
 
 - new WeiDU package names and structure
