@@ -2,6 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.5
+- application can now work offline
+- application is fully portable out-of-the-box
+- required tools are downloaded into the "Tools" directory
+- the download logic for required tools was entirely rewritten
+- Git is not required if the computer is offline
+- application uses global WeiDU executable
+- the game directory is not cluttered with many setup-xxx.exe files anymore
+
 ## 0.8.4
 
 - fixed 'Download Mods' count (regression)
