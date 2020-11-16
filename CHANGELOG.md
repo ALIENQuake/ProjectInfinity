@@ -2,7 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.6
+
+- New Feature: Set install order rules directly from components using the METADATA keyword
+- improvements for reading README keyword
+
 ## 0.8.5
+
 - application can now work offline
 - application is fully portable out-of-the-box
 - required tools are downloaded into the "Tools" directory
