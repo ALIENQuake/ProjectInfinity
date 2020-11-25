@@ -2,6 +2,9 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.7
+- added Sampsca GitHub account
+
 ## 0.8.6
 
 - New Feature: Set install order rules directly from components using the METADATA keyword
@@ -69,7 +72,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 - added few tooltips for buttons
 - improve feedback for the user if duplicated mods are found
-- added BGforgeNet Github account
+- added BGforgeNet GitHub account
 
 ## 0.7.14
 
@@ -95,12 +98,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.7.10
 
-- added Pocket Plane Group Github account
+- added Pocket Plane Group GitHub account
 
 ## 0.7.9
 
-- added Spellhold Studios Github account
-- added Bubb13 Github account
+- added Spellhold Studios GitHub account
+- added Bubb13 GitHub account
 - added EEex.exe support for game launch and icon
 - added basic validation into 'Setting' window
 - added check if the install sequence data contains non-existent mods
