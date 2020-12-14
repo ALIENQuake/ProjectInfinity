@@ -4,6 +4,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.8.7
 
+- fixed installation of tp2-at-top-level mods (regression)
+
+## 0.8.7
+
 - added Sampsca GitHub account
 
 ## 0.8.6
