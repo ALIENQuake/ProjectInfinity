@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.11
+
+- attempt to fix providing SoD path during the initial launch of the application
+
 ## 0.8.10
 
 - internal fixes
