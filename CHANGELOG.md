@@ -2,6 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.12
+- you can now accept the 'Extracted mods:' path by using the 'Enter' key
+- added auto-complete function for 'Extracted mods:' TextBox when manually typing the path
+- you can now Drag&Drop directory from Explorer into 'Extracted mods:' TextBox
+- added auto-complete function for "Providing SoD path:" dialog when manually typing the path
+- you can now Drag&Drop correct SoD directory, chitin.key file from Explorer into "Providing SoD path:" dialog TextBox
+- fixed "Providing SoD path:" dialog validation events logic
+
 ## 0.8.11
 
 - attempt to fix providing SoD path during the initial launch of the application
