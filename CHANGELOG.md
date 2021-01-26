@@ -4,7 +4,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.8.13
 
-- do not complain when the metadata Download link contains extra forward slash
+- do not complain when the metadata Download link contains an extra forward slash
   
 ## 0.8.12
 - you can now accept the 'Extracted mods:' path by using the 'Enter' key
