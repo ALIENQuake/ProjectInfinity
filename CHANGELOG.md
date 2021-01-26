@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.13
+
+- do not complain when the metadata Download link contains extra forward slash
+  
 ## 0.8.12
 - you can now accept the 'Extracted mods:' path by using the 'Enter' key
 - added auto-complete function for 'Extracted mods:' TextBox when manually typing the path
