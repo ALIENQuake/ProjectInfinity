@@ -2,11 +2,16 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.14
+
+- fixed Up/Down/Top/Bottom buttons to not move mod compoenents
+
 ## 0.8.13
 
 - do not complain when the metadata Download link contains an extra forward slash
   
 ## 0.8.12
+
 - you can now accept the 'Extracted mods:' path by using the 'Enter' key
 - added auto-complete function for 'Extracted mods:' TextBox when manually typing the path
 - you can now Drag&Drop directory from Explorer into 'Extracted mods:' TextBox
