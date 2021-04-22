@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.15
+
+- fixed very rare bug with calculating install order rule status
+  
 ## 0.8.14
 
 - fixed Up/Down/Top/Bottom buttons to not move mod compoenents
