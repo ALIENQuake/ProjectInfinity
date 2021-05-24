@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.16
+
+- added (I)mport and (E)xport buttons for importing/exporting install sequence 
+- added right-click menu to install sequence window
+  
 ## 0.8.15
 
 - fixed a very rare bug with determining install order rule status
