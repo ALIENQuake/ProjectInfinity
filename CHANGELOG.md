@@ -4,7 +4,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.8.17
 
-- fixed top-level tp2 files with spaces characters in their names
+- fixed installing mods with top-level tp2 files with spaces characters in their names
 
 ## 0.8.16
 
