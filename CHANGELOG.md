@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.8.18
+
+- fixed anchor of (I)mport and (E)xport buttons
+
 ## 0.8.17
 
 - fixed installing mods with top-level tp2 files with spaces characters in their names
