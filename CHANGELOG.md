@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.0
+
+- New Feature: Saving mod component selections
+- cosmetic changes
+
 ## 0.8.18
 
 - fixed anchor of (I)mport and (E)xport buttons
