@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.1
+- breaking change: the install sequence is now using `;` to separate Component ID from Component Description
+- the install sequence will use globally unique labels, if the mod supports them
+- conversion of WeiDU.log will now produce an install sequence with globally unique labels
+- added Gitjas GitHub account to the 'Download Mods' feature
+
 ## 0.9.0
 
 - New Feature: Saving mod component selections
@@ -59,7 +65,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.8.7
 
-- added Sampsca GitHub account
+- added Sampsca GitHub account to the 'Download Mods' feature
 
 ## 0.8.6
 
@@ -128,7 +134,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 - added few tooltips for buttons
 - improve feedback for the user if duplicated mods are found
-- added BGforgeNet GitHub account
+- added BGforgeNet GitHub account to the 'Download Mods' feature
 
 ## 0.7.14
 
@@ -154,12 +160,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.7.10
 
-- added Pocket Plane Group GitHub account
+- added Pocket Plane Group GitHub account to the 'Download Mods' feature
 
 ## 0.7.9
 
-- added Spellhold Studios GitHub account
-- added Bubb13 GitHub account
+- added Spellhold Studios GitHub account to the 'Download Mods' feature
+- added Bubb13 GitHub account to the 'Download Mods' feature
 - added EEex.exe support for game launch and icon
 - added basic validation into 'Setting' window
 - added check if the install sequence data contains non-existent mods
