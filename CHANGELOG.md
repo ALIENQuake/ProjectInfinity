@@ -2,7 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.2
+
+- fixed case when mod ID contains '#' as the first character
+- replace comment character of '#' to '//' to not interfere with allowed mod prefixes
+
 ## 0.9.1
+
 - breaking change: the install sequence is now using `;` to separate Component ID from Component Description
 - the install sequence will use globally unique labels, if the mod supports them
 - conversion of WeiDU.log will now produce an install sequence with globally unique labels
