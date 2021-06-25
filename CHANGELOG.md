@@ -2,10 +2,15 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.3
+
+- fixed rare case when install sequence contain whitespace characters
+- importing/exporting install sequence will now use UTF8 encoding
+
 ## 0.9.2
 
-- fixed case when mod ID contains '#' as the first character
-- replace comment character of '#' to '//' to not interfere with allowed mod prefixes
+- fixed case when mod ID contains `#` as the first character
+- replace comment character from `#` to `//` in order to not interfere with allowed mod prefixes
 
 ## 0.9.1
 
