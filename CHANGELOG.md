@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.4
+
+- temporary revert install sequence using labels until mod scan algorithm will be redesigned
+
 ## 0.9.3
 
 - fixed rare case when install sequence contain whitespace characters
