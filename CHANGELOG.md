@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.6
+
+- fixed importing weidu.log (regression)
+
 ## 0.9.5
 
  - yet again do not complain when the metadata Download link contains an extra forward slash
