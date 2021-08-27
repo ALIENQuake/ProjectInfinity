@@ -2,6 +2,11 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.7
+
+- remove unnecessary checkbox from 'New update: ..." node
+- added CHECKSUM.md file with SHA-256
+
 ## 0.9.6
 
 - fixed importing weidu.log (regression)
