@@ -4,8 +4,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.9.7
 
-- remove unnecessary checkbox from 'New update: ..." node
-- added CHECKSUM.md file with SHA-256
+- remove the unnecessary checkbox from 'New update: ..." node
+- added CHECKSUM.md file with SHA256 hash
 
 ## 0.9.6
 
