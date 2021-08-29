@@ -2,10 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.8
+
+- fixed detection of label type (regression)
+
 ## 0.9.7
 
-- remove the unnecessary checkbox from 'New update: ..." node
-- added CHECKSUM.md file with SHA256 hash
+- remove unnecessary checkbox from 'New update: ..." node
+- added CHECKSUM.md file with SHA-256
 
 ## 0.9.6
 
