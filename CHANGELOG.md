@@ -2,6 +2,13 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.9.9
+
+- settings: Enable Pre-Release updates for mods
+- improvements to the mod update function
+- added confirm dialog for mod update
+- changed naming schema of log files when installation errors occurs
+  
 ## 0.9.8
 
 - fixed detection of label type (regression)
@@ -42,7 +49,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.9.0
 
-- New Feature: Saving mod component selections
+- feature: Saving mod component selections
 - cosmetic changes
 
 ## 0.8.18
@@ -101,7 +108,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.8.6
 
-- New Feature: Set install order rules directly from components using the METADATA keyword
+- feature: Set install order rules directly from components using the METADATA keyword
 - improvements for reading README keyword
 
 ## 0.8.5
@@ -134,7 +141,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.8.0
 
-- New Feature: Dynamic Install Order
+- feature: Dynamic Install Order
 - added 'Overwrite' install order group 
 - removed 'UI-Overwrite' and 'UI-Patch' install order groups
 - minor fixes
@@ -215,11 +222,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.7.8
 
-- New Feature: mod metadata Readme keyword for online readme files
+- feature: mod metadata Readme keyword for online readme files
 
 ## 0.7.7
 
-- New Feature: support for full EET installation
+- feature: support for full EET installation
 - cosmetic changes
 - minor fixes
 
@@ -261,14 +268,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.7.0
 
-- New Feature: Install Order Groups
-- New Feature: assign mods to Install Order Groups
-- New Feature: Drag & Drop for Install Order Groups and mods
-- New Feature: re-arrange order of the Install Order Groups
-- New Feature: re-arrange order of the mods inside Install Order Groups
-- New Feature: auto-saving order of the Install Order Groups
-- New Feature: auto-saving order of the mods inside Install Order Groups
-- New Feature: auto-saving mods assignment into Install Order Groups
+- feature: Install Order Groups
+- feature: assign mods to Install Order Groups
+- feature: Drag & Drop for Install Order Groups and mods
+- feature: re-arrange order of the Install Order Groups
+- feature: re-arrange order of the mods inside Install Order Groups
+- feature: auto-saving order of the Install Order Groups
+- feature: auto-saving order of the mods inside Install Order Groups
+- feature: auto-saving mods assignment into Install Order Groups
 - added 'Move to top' and 'Move to bottom' buttons
 - added Ctrl+UpArrow/DownArrow and Ctrl+Alt+UpArrow/DownArrow hotkeys combinations
 
@@ -300,7 +307,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.6.3
 
-- New Feature: pausing installation
+- feature: pausing installation
 - cannot pause/abort the installation of a single component
 - cannot pause/abort after the last component starts the installation
 - preventing closing application during ongoing installation
@@ -349,7 +356,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.5.5
 
-- New Feature: change order of the mods
+- feature: change order of the mods
 
 ## 0.5.4
 
