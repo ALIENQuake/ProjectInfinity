@@ -1,7 +1,17 @@
-# Release Notes:
-
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.10.0
+ - breaking change: Install Order Rules are checked only once when Set-InstallSequence/Start-Installation buttons are pressed
+ - beta feature: WeiDU-PI-Global.log will record the status of all mod installations
+ - elimination of UI lag when scanning mods
+ - elimination of UI lag when there are multiple components selected
+ - install sequence will use globally unique labels if the mod supports them
+ - application updates will be checked once per day
+ - duplicated mods will be reported and excluded instead of blocking application usage
+ - importing WeiDU.log will now give feedback to users about missing mods and components
+ - fixed missing "BG1 Unfinished Business" mod from Pocket-Plane-Group list
+ - logging improvements
+ 
 ## 0.9.9
 
 - settings: Enable Pre-Release updates for mods
@@ -43,7 +53,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 ## 0.9.1
 
 - breaking change: the install sequence is now using `;` to separate Component ID from Component Description
-- the install sequence will use globally unique labels, if the mod supports them
 - conversion of WeiDU.log will now produce an install sequence with globally unique labels
 - added Gitjas GitHub account to the 'Download Mods' feature
 
