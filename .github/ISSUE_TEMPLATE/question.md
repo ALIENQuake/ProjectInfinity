@@ -1,10 +1,9 @@
 ---
-name: Question
-about: Any kind of general question
+name: Discussion
+about: Any kind of general discussion or question
 title: ''
-labels: question
+labels: discussion
 assignees: ALIENQuake
-
 ---
 
 
