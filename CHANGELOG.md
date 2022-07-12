@@ -1,6 +1,11 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
-## 0.10.0
+## 0.10.1
+ 
+ - fixed detection of mod data folder (regression)
+ 
+ ## 0.10.0
+ 
  - breaking change: Install Order Rules are checked only once when Set-InstallSequence/Start-Installation buttons are pressed
  - beta feature: WeiDU-PI-Global.log will record the status of all mod installations
  - elimination of UI lag when scanning mods
