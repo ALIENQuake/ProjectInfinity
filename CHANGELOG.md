@@ -2,7 +2,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.10.2
  
- - fixed duplicated entrys at mod info box (regression)
+ - fixed duplicated entries at mod info box (regression)
   
 ## 0.10.1
  
