@@ -1,5 +1,9 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.10.2
+ 
+ - fixed duplicated entrys at mod info box (regression)
+  
 ## 0.10.1
  
  - fixed detection of mod data folder (regression)
