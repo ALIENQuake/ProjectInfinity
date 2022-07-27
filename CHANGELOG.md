@@ -1,5 +1,9 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.10.3
+ 
+ - fixed detection of duplicated components inside install sequence (regression)
+  
 ## 0.10.2
  
  - fixed duplicated entries at mod info box (regression)
