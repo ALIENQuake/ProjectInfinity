@@ -2,7 +2,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), this pro
 
 ## 0.10.4
  
- - require mod scanning when using imported install sequence (regression)
+ - using imported install sequence now requires mod scanning (regression)
   
 ## 0.10.3
  
