@@ -1,8 +1,13 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
 
+## 0.10.5
+
+ - fixed using mod name from metadata for install sequence (regression)
+ - fixed detection of duplicated components when starting the installation (regression)
+
 ## 0.10.4
  
- - using imported install sequence now requires mod scanning (regression)
+ - require mod scanning when using imported install sequence (regression)
   
 ## 0.10.3
  
