@@ -1,4 +1,9 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
+ 
+ ## 0.10.6
+
+ - fixed duplicated mod update when the mod release has Vx.x and vx.xx tags
+ - fixed online readme link detection (regression)
 
 ## 0.10.5
 
