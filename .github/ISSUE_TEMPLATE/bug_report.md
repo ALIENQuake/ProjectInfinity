@@ -12,8 +12,8 @@ assignees: ALIENQuake
  - .NET Framework version: should be 4.5.2 or above [Download](https://www.microsoft.com/net/download/dotnet-framework-runtime)
  - Powershell version: should be Powershell 5.1 [Download](https://docs.microsoft.com/en-us/powershell/wmf/setup/install-configure)
 
-**Upload logs from Logs folder**
-Please zip entire Logs directory and attachat the file to the issue.
+**Upload logs from the Logs folder**
+Please zip the entire Logs directory and attach the file to the issue.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -23,7 +23,7 @@ Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See the error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
