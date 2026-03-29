@@ -1,6 +1,18 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/), this project follows [Semantic Versioning](https://semver.org/).
- 
- ## 0.10.6
+
+## 0.10.7
+ - download mods panel, excluded .github repository by default
+ - download mods panel, removed InfinityMods from download panel
+ - download mods panel, updated Spellhold Studios GitHub Organization url
+ - download mods panel, exclude some documentation and misc repos
+ - fixed downloading of WeiDU due to archive filename change
+ - fixed case-sensitive detection of the '[Metadata]' ini panel name
+ - fixed exception when trying to download mod
+ - fixed single-language mod installation
+ - fixed update check for mods with branches other than 'main' or 'master'
+ - detect Portuguese and Swedish language
+
+## 0.10.6
 
  - fixed duplicated mod update when the mod release has Vx.x and vx.xx tags
  - fixed online readme link detection (regression)
